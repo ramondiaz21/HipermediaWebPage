@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 100x 0 200px;
+  height: 650px;
+  background-image: url("../img/farm.jpeg") !important;
+  background-size: cover;
+  color:#3b3a30;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 50px 0 100px;
+    background-image: url("../img/farm.jpeg");
+    color:#3b3a30;
+  }
+}
+
+h1{
+	color:#3b3a30
+}
+
+h2{
+	color:#5b9aa0;
+}
+
+p{
+	color:black;
+	font-weight: 10px;
+}
+
+section {
+  padding: 100px 0;
+}
+.subtitulo{
+	color:#3b3a30;
+}
+
+.contenido{
+	color: #405d27;
+	font-size: 20px;
+	font-weight: 100%;
+
+}
+
+
+#objetivo{
+	padding: 200px 0;
+}
+
+#hipotesis{
+	padding: 50px 0;
+}
+
+#protocolo{
+	padding: 10px 0;
+	font-size: 14px !important;
+}
+
+#cronograma{
+	padding: 50px 0;
+}
+
+dt,dd{
+	color: #405d27;
+	font-size: 16px;
+	font-weight: 100%;
+}
+dt{
+	float: left;
+	position: relative;
+	width: 150px;
+}
+
+dd{
+	margin-left: 10em;
+}
+
+.ejemplos{
+	margin-left: 10em;
+	color: #405d27;
+	font-size: 20px;
+	font-weight: 100%;
+}
+
+.table{
+	color: #405d27;
+	font-size: 20px;
+	font-weight: 100%;
+}
